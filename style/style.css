@@ -1,0 +1,30 @@
+/* .wave {
+    width: 100%;
+    display: block;
+}
+
+.img {
+    width: 100%;
+    height: auto;
+    display: block;
+} */
+
+.custom-shape-divider-bottom-1785477492 {
+  position: absolute;
+  bottom: -1px;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+}
+
+.custom-shape-divider-bottom-1785477492 svg {
+  position: relative;
+  display: block;
+  width: calc(132% + 1.3px);
+  height: 143px;
+}
+
+.custom-shape-divider-bottom-1785477492 .shape-fill {
+  fill: #ffffff;
+}
